@@ -11,7 +11,7 @@ Los resultados de este estudio no son favorables para la institución donde se r
 ## Contenido
 
 - `manuscrito/bio-edu-manuscrito.md` — el texto del manuscrito (español, estilo Vancouver), con la institución anonimizada.
-- `datos/Docentes_Datos.xlsx` — los registros de los 105 docentes analizados (edad, sexo, grado académico, facultad, carrera, experiencia docente, entrenamiento no formal y formal en bioética). No contiene nombre, dato de contacto ni ningún identificador individual de los docentes; la columna de asignaturas registra únicamente el nombre de las materias dictadas por cada uno.
+- `datos/Docentes_Datos.csv` — los registros de los 105 docentes analizados (edad, sexo, grado académico, facultad, carrera, experiencia docente, entrenamiento no formal y formal en bioética). No contiene nombre, dato de contacto ni ningún identificador individual de los docentes; la columna de asignaturas registra únicamente el nombre de las materias dictadas por cada uno. Delimitado por punto y coma, UTF-8.
 - `tablas/tabla-curricular-7-carreras.md` — Tabla 1 del manuscrito: características de la asignatura específica de ética/bioética en las siete carreras, y las asignaturas con contenidos éticos dispersos identificadas en el análisis curricular.
 - `tablas/analisis-dafo.md` — el análisis DAFO institucional completo (fortalezas, debilidades, oportunidades, amenazas) y las estrategias de mejora propuestas por horizonte temporal.
 - `referencias/referencias-bio-edu.ris` — las 20 referencias del manuscrito, en formato RIS.

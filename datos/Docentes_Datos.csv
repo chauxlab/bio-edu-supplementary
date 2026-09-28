@@ -1,0 +1,106 @@
+edad;sexo;grado;facultad;carrera;asignaturas;experiencia;no_formal;formal;entrenamiento
+28;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Bioquímica;Control de Calidad;3;Diplomado;No;Sí
+50;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Bioquímica;Microbiología ;7;Diplomado;No;Sí
+58;Mujer;Especialización;Facultad de Ciencias de la Salud;Enfermería;Medicina Legal.Criminomogia,Etica;20;Diplomado;No;Sí
+29;Mujer;Especialización;Facultad de Ciencias de la Salud;Odontología;Histología y Embriología;4;Capacitación;No;Sí
+28;Mujer;Licenciatura;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;"Fisiología; Fisiopatología General.";5;Capacitación;No;Sí
+58;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Enfermería;Medicina legal Criminología Etica. ;20;Capacitación;No;Sí
+25;Hombre;Especialización;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;"Bioestadística; Metodología de la investigación; Metodología del aprendizaje; Física y biofísica; Fisioterapia respiratoria";2;Cursos cortos;No;Sí
+27;Mujer;Licenciatura;Facultad de Ciencias de la Salud;Enfermería;Diagnóstico por imágenes, 3er curso;3;Cursos cortos;No;Sí
+58;Mujer;Especialización;Facultad de Medicina;Enfermería;"clinica obstetrica; atencion prenatal";5;Cursos cortos;No;Sí
+40;Mujer;Maestría;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;Anatomia;15;Cursos cortos;No;Sí
+45;Mujer;Especialización;Facultad de Ciencias de la Salud;Odontología;"Salud pública; odontología preventiva, Cirugía bucal";21;Cursos cortos;No;Sí
+25;Mujer;Grado Profesional;Facultad de Medicina;Medicina;Primeros Auxilios y salud pública ;1;Cursos cortos;No;Sí
+29;Mujer;Especialización;Facultad de Medicina;Nutrición;"Práctica Profesional en Salud Pública; Salud Pública ";5;Cursos cortos;No;Sí
+45;Mujer;Maestría;Facultad de Medicina;Medicina;"Castellano 3º; Guaraní 3º";10;Cursos cortos;No;Sí
+32;Hombre;Maestría;Facultad de Medicina;Medicina;Fisiología;6;Cursos cortos;Especialización;Sí
+58;Mujer;Maestría;Facultad de Ciencias de la Salud;Enfermería;Metodologia de la Investigacion;28;Cursos cortos;No;Sí
+44;Hombre;Especialización;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;"Neuroanatomía Funcional I; Neuroanatomía Funcional II";14;Cursos cortos;No;Sí
+67;Mujer;Especialización;Facultad de Ciencias de la Salud;Odontología;Odontopediatria 5to año;19;Cursos cortos;No;Sí
+47;Mujer;Licenciatura;Facultad de Ciencias de la Salud;Enfermería;Obstetricia ;14;Cursos cortos;No;Sí
+50;Mujer;Maestría;Facultad de Medicina;Enfermería;Práctica Profesional;12;Cursos cortos;No;Sí
+25;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Bioquímica;"Ética y Bioética; Bioquímica y Sociedad.";4;Cursos cortos;No;Sí
+58;Mujer;Especialización;Facultad de Ciencias de la Salud;Enfermería;Meficina Legal, Criminologia, Antes Etica;20;Cursos cortos;No;Sí
+58;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Enfermería;Medicina Legal, Ética, Criminología;20;Cursos cortos;No;Sí
+26;Mujer;Maestría;Facultad de Ciencias de la Salud;Bioquímica;Fisicoquímica general, fisicoquímica biológica;3;Cursos cortos;No;Sí
+49;Mujer;Maestría;Facultad de Ciencias de la Salud;Enfermería;Salud del niño y Adolescente, Educación en Enfermería ;11;Cursos cortos;No;Sí
+31;Hombre;Especialización;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;Rehabilitacion geriatrica y gerontologia;5;No;No;No
+42;Hombre;Grado Profesional;Facultad de Ciencias de la Salud;Nutrición;Ética ;16;No;No;No
+31;Mujer;Licenciatura;Facultad de Ciencias de la Salud;Enfermería;"Nutrición y Dietoterapia; Informática";3;No;No;No
+29;Mujer;Grado Profesional;Facultad de Medicina;Medicina;semiologia quirurgica 2, fisiopatoligia cardiovascular 2, anatomia 1 ;3;No;No;No
+44;Mujer;Maestría;Facultad de Ciencias de la Salud;Bioquímica;Metodologia Investigacion;4;No;No;No
+43;Mujer;Licenciatura;Facultad de Medicina;Nutrición;Tecnica Dietetica I y II;15;No;No;No
+32;Mujer;Especialización;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;"Técnicas Evaluativas y Funcionales; Fisioterapia pre y pos parto y neonatal";7;No;No;No
+39;Mujer;Especialización;Facultad de Medicina;Medicina;Psiquiatria ;10;No;No;No
+29;Hombre;Grado Profesional;Facultad de Medicina;Bioquímica;Anatomía, Fisiología, Fisiopatología, Biologia;3;No;No;No
+31;Mujer;Grado Profesional;Facultad de Medicina;Bioquímica;Hematologia I - Laboratorio;2;No;No;No
+30;Mujer;Especialización;Facultad de Medicina;Medicina;Histologia;3;No;No;No
+32;Mujer;Grado Profesional;Facultad de Medicina;Medicina;Psiquiátria ;2;No;No;No
+36;Hombre;Especialización;Facultad de Medicina;Medicina;Semiología Quirúrgica;3;No;No;No
+50;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Odontología;Salud Publica.;1;No;No;No
+44;Mujer;Maestría;Facultad de Ciencias de la Salud;Odontología;Biomateriales dentales, Odontología Preventiva;21;No;No;No
+46;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Odontología;Oclusión;18;No;No;No
+27;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Odontología;Operatoria dental I;2;No;Maestría;Sí
+32;Hombre;Especialización;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;Rehabilitación Neurológica, Fisioterapia en Traumatologia y Reumatologia;4;No;No;No
+50;Mujer;Especialización;Facultad de Ciencias de la Salud;Bioquímica;Bioquimica Clinica II;15;No;No;No
+59;Mujer;Licenciatura;Facultad de Ciencias de la Salud;Nutrición;Tec. Dietetica 1 y 2 y tecnica culinaria. Opyativa 3 y Ssneamien5o;20;No;No;No
+46;Mujer;Maestría;Facultad de Ciencias de la Salud;Odontología;Anatomía Humana - Histología y Embriología;15;No;No;No
+62;Hombre;Especialización;Facultad de Medicina;Medicina;Farmacología y Toxicología;35;No;No;No
+35;Mujer;Especialización;Facultad de Medicina;Medicina;Inglés aplicado a la medicina;1;No;No;No
+61;Hombre;Especialización;Facultad de Medicina;Medicina;Urología;16;No;No;No
+32;Hombre;Especialización;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;Pasantia Traumatologica;7;No;No;No
+42;Hombre;Maestría;Facultad de Medicina;Medicina;Fisiologia (Segundo curso);20;No;No;No
+47;Hombre;Especialización;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;"Rehabilitación Neurológica; Introducción a la Fisioterapia; Hidroterapia";5;No;No;No
+31;Mujer;Grado Profesional;Facultad de Medicina;Bioquímica;Hematologia I - Laboratorio;2;No;No;No
+38;Mujer;Maestría;Facultad de Medicina;Bioquímica;Biología Molecular, Bología Celular;7;No;No;No
+26;Mujer;Maestría;Facultad de Ciencias de la Salud;Bioquímica;Fisicoquímica general, fisicoquímica biológica;3;No;No;No
+23;Hombre;Licenciatura;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;Extensión Universitaria;1;No;No;No
+50;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Odontología;Salud Publica;1;No;No;No
+60;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Odontología;"Biomateriales Dentales; Operatoria Dental";25;No;No;No
+26;Hombre;Grado Profesional;Facultad de Medicina;Medicina;"Histologia;Fisiopatologia";2;No;No;No
+37;Mujer;Licenciatura;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;"BiomecanicaI; BiomecanicaII; Tecnicas Evaluativas y Funcionales; Kinefilaxia y Fisioterapia Deportiva";6;No;No;No
+27;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;"Anatomía General II, primer curso; Clínica Médica II, tercer curso";2;No;No;No
+49;Mujer;Licenciatura;Facultad de Medicina;Enfermería;"Práctica profesional; Técnicas Básicas ";11;No;No;No
+43;Mujer;Especialización;Facultad de Ciencias de la Salud;Odontología;"Periodoncia; Endodoncia";20;No;No;No
+32;Mujer;Especialización;Facultad de Ciencias de la Salud;Nutrición;"Técnica Dietética I y II; Técnica Culinaria I y II; Optativa III; Pasantía de un Servicio Alimentario";5;No;No;No
+44;Hombre;Especialización;Facultad de Medicina;Medicina;Anatomía Humana ;13;No;No;No
+26;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Odontología;"Endodoncia III y IV 4to curso; Periodoncia I y II ";2;No;No;No
+26;Mujer;Especialización;Facultad de Ciencias de la Salud;Odontología;"Operatoria Dental; Odontopediatria";3;No;No;No
+47;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Odontología;Odontopediatria;19;No;No;No
+38;Mujer;Especialización;Facultad de Medicina;Medicina;Histologia;4;No;No;No
+31;Mujer;Maestría;Facultad de Ciencias de la Salud;Nutrición;Fitoterapia (iniciaría en postgrado);5;No;No;No
+46;Mujer;Licenciatura;Facultad de Ciencias de la Salud;Psicología;Rorschach. , rol del psicologo. , psicometria. , psicoanálisis. , Melanie Klein. , Lacan., clinica., psicología del trabajo. ;9;No;No;No
+35;Mujer;Licenciatura;Facultad de Ciencias de la Salud;Nutrición;Salud  pública ;5;No;No;No
+27;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Bioquímica;"Parasitologia; Orientacion a la Bioquimica; Bioquimica y Sociedad";3;No;No;No
+38;Mujer;Especialización;Facultad de Ciencias de la Salud;Odontología;Odontopediatria;16;No;No;No
+51;Mujer;Licenciatura;Facultad de Ciencias de la Salud;Enfermería;Práctica profesional ;10;No;No;No
+25;Hombre;Especialización;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;Pasantia Externa Universitaria;1;No;No;No
+33;Mujer;Licenciatura;Facultad de Ciencias de la Salud;Psicología;Psicologia en Paraguay.,Intervencion en Crisis.,Introduccion a la Psicohigiene;3;No;No;No
+28;Mujer;Licenciatura;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;"biofisica; kinesiterapia, pasantia";2;No;No;No
+45;Hombre;Especialización;Facultad de Medicina;Medicina;Medicina interna;10;No;No;No
+45;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Nutrición;Nutricion Animal;15;No;No;No
+37;Hombre;Licenciatura;Facultad de Ciencias de la Salud;Bioquímica;"Física; Matemática ";6;No;No;No
+40;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Bioquímica;Biologia;12;No;No;No
+42;Hombre;Licenciatura;Facultad de Ciencias de la Salud;Psicología;Tecnicas Proyectivas.,Psicologia del Desarrollo.,Psicopatologia del adolescencia;8;No;No;No
+42;Hombre;Licenciatura;Facultad de Ciencias de la Salud;Psicología;Tecnicas Proyectivas.,Psicopatologia IV Adolescencia.,Psicologia del Desarrollo Humano II;8;No;No;No
+37;Mujer;Licenciatura;Facultad de Ciencias de la Salud;Enfermería;Practica profesional;10;No;No;No
+30;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Bioquímica;Biología Molecular, Genética, Biología Celular;4;No;No;No
+37;Mujer;Especialización;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;Semiologia Medica 2do curso,semiologia quirurgica 2do curso,fisiologia 1er curso,clinica 3er curso;4;No;No;No
+59;Mujer;Maestría;Facultad de Ciencias de la Salud;Odontología;"Clinica Integrada; Metodologia de la Investigacion";33;No;No;No
+28;Hombre;Grado Profesional;Facultad de Ciencias de la Salud;Odontología;Biomateriales ;4;No;No;No
+40;Mujer;Maestría;Facultad de Ciencias de la Salud;Odontología;"Salud Publica; Odontopediatra; Odontología Preventiva";19;No;No;No
+42;Hombre;Licenciatura;Facultad de Ciencias de la Salud;Psicología;tecnicas proyectivas.,psicologia del desarrollo humano.,psicopatologia IV adolescencia;8;No;No;No
+32;Mujer;Especialización;Facultad de Ciencias de la Salud;Nutrición;"Dietoterapia del adulto; práctica profesional ";9;No;No;No
+35;Hombre;Grado Profesional;Facultad de Medicina;Medicina;oncologia;3;No;No;No
+46;Mujer;Maestría;Facultad de Ciencias de la Salud;Odontología;"Anatomía; Histología";16;No;No;No
+38;Mujer;Licenciatura;Facultad de Ciencias de la Salud;Psicología;Neurologia .,Pasantia en Neurologia ;5;No;No;No
+39;Mujer;Maestría;Facultad de Ciencias de la Salud;Bioquímica;Analisis Quimico I y II ;10;No;No;No
+35;Mujer;Especialización;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;"Fisioterapia I;Practica Profesional I yII";9;No;No;No
+28;Mujer;Licenciatura;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;Kinesioterapia, Biofísica, Pasantía;2;No;No;No
+42;Mujer;Maestría;Facultad de Ciencias de la Salud;Fisioterapia y Kinesiología;Instructora de pasantia;3;No;No;No
+50;Mujer;Grado Profesional;Facultad de Ciencias de la Salud;Bioquímica;Microbiología ;7;No;No;No
+36;Mujer;Licenciatura;Facultad de Medicina;Nutrición;Evaluación Nutricional.Nutrición Materno infantil. Tercer curso;4;No;No;No
+26;Mujer;Licenciatura;Facultad de Medicina;Nutrición;"Nutrición Normal; Nutrición en Geriatría";4;No;No;No
+26;Mujer;Licenciatura;Facultad de Medicina;Nutrición;"Nutrición Normal; Nutrición en Geriatría";4;No;No;No
+48;Mujer;Grado Profesional;Facultad de Medicina;Bioquímica;"Legislación Farmacéutica; Química Farmacéutica; Bromatologi{a y Biotecnologia";15;No;No;No
+29;Mujer;Grado Profesional;Facultad de Medicina;Fisioterapia y Kinesiología;Anatomia;3;No;No;No
