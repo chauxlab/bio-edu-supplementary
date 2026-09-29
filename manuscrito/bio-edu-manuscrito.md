@@ -1,5 +1,5 @@
 ---
-version: 4
+version: 5
 status: ready
 language: es
 citation_style: vancouver
@@ -63,7 +63,22 @@ Describir el nivel de formación en bioética de los docentes y las característ
 
 Se realizó un estudio descriptivo transversal con dos componentes complementarios: la formación en bioética de los docentes y la oferta curricular de bioética dirigida a los alumnos, desarrollado en una universidad privada de Asunción, Paraguay, organizada en una Facultad de Medicina (Medicina, Bioquímica, Enfermería y Nutrición) y una Facultad de Ciencias de la Salud (Odontología, Fisioterapia y Kinesiología, y Psicología). El periodo de referencia de los datos analizados correspondió al año 2020.
 
-Para el componente docente, la población estuvo constituida por 303 docentes con actividad académica registrada en el periodo considerado, distribuidos en las siete carreras (Bioquímica, 32; Enfermería, 20; Fisioterapia y Kinesiología, 31; Medicina, 108; Nutrición, 31; Odontología, 62; Psicología, 19). Se revisó la totalidad de los 303 expedientes docentes; 105 (35 %) contaban con datos completos en todas las variables de interés y se incluyeron en el análisis, mientras que los 198 restantes se excluyeron por información insuficiente en el registro institucional. Para el componente curricular, se analizaron de forma censal los programas de estudio vigentes en 2020 de las siete carreras, sin muestreo.
+Para el componente docente, la población estuvo constituida por 303 docentes con actividad académica registrada en el periodo considerado, distribuidos en las siete carreras (Bioquímica, 32; Enfermería, 20; Fisioterapia y Kinesiología, 31; Medicina, 108; Nutrición, 31; Odontología, 62; Psicología, 19). Se revisó la totalidad de los 303 expedientes docentes; 105 (35 %) contaban con datos completos en todas las variables de interés y se incluyeron en el análisis, mientras que los 198 restantes se excluyeron por información insuficiente en el registro institucional. La proporción de docentes incluidos varió considerablemente entre carreras (tabla 1).
+
+**Tabla 1.** Docentes incluidos y excluidos por carrera, según disponibilidad de datos completos en el registro institucional.
+
+| Carrera | Población | Incluidos | Excluidos | Excluidos (%) |
+|---|---:|---:|---:|---:|
+| Medicina | 108 | 17 | 91 | 84,3 |
+| Odontología | 62 | 19 | 43 | 69,4 |
+| Psicología | 19 | 6 | 13 | 68,4 |
+| Nutrición | 31 | 12 | 19 | 61,3 |
+| Bioquímica | 32 | 18 | 14 | 43,8 |
+| Fisioterapia y Kinesiología | 31 | 19 | 12 | 38,7 |
+| Enfermería | 20 | 14 | 6 | 30,0 |
+| **Total** | **303** | **105** | **198** | **65,3** |
+
+Para el componente curricular, se analizaron de forma censal los programas de estudio vigentes en 2020 de las siete carreras, sin muestreo.
 
 No se aplicó cuestionario ni instrumento de medición psicométrica. La recolección consistió en una revisión documental estructurada de los registros de los docentes y de los programas de estudio. De cada programa se extrajeron el perfil de egreso, los objetivos, la misión, la duración en semestres y el número total de asignaturas, y se determinó la presencia de asignaturas dedicadas de forma exclusiva a contenidos de ética o bioética, diferenciándolas de aquellas que abordaban el tema de forma incidental. De los registros de los docentes activos se extrajeron las variables sociodemográficas y laborales (edad, sexo, grado académico máximo, facultad, carrera y años de experiencia) y se identificaron las referencias a entrenamiento en bioética, clasificado como no formal (cursos cortos de 12 a 24 horas, capacitaciones de 25 a 100 horas o diplomados de más de 100 horas) o formal (especialización o maestría en bioética). La variable de entrenamiento refleja la formación documentada en los registros institucionales, y no permite descartar formación adicional no incorporada a esos registros. Los registros de los docentes se recibieron ya disociados de identificadores personales directos (sin nombres), organizados por código de fila. Los datos se organizaron en una matriz rectangular y cada carrera fue analizada por separado.
 
@@ -91,9 +106,9 @@ Al considerar conjuntamente cualquier entrenamiento (formal o no formal), 79 doc
 
 ## Oferta curricular de las siete carreras
 
-Las siete carreras analizadas contaban, cada una, con exactamente una asignatura específica de ética o bioética, con duración y ubicación curricular variables (tabla 1).
+Las siete carreras analizadas contaban, cada una, con exactamente una asignatura específica de ética o bioética, con duración y ubicación curricular variables (tabla 2).
 
-**Tabla 1.** Características de la asignatura específica de ética o bioética en las siete carreras analizadas.
+**Tabla 2.** Características de la asignatura específica de ética o bioética en las siete carreras analizadas.
 
 | Carrera | Duración | Asignaturas totales | Semestres | Asignatura específica | Carga horaria | Semestre |
 |---|---|---|---|---|---|---|
@@ -125,7 +140,7 @@ Estos hallazgos pueden influir en el desarrollo del profesionalismo de los futur
 
 Desde la planificación estratégica, el análisis DAFO permite trasladar estos hallazgos a un marco de acción institucional. La literatura respalda su utilidad para identificar barreras a la implementación de programas formativos y diseñar estrategias escalonadas, desde intervenciones de corto plazo hasta reformas estructurales de mediano y largo plazo [14,15]. La creación de un comité de bioética y el desarrollo de cursos de posgrado específicos, identificados aquí como debilidades y líneas de acción, son consistentes con las recomendaciones de planificación estratégica para el educador en ciencias de la salud [16].
 
-Este estudio presenta limitaciones. El análisis se realizó sobre los 105 docentes (35 % de los 303 expedientes revisados) que contaban con datos completos; los 198 restantes se excluyeron por información insuficiente en el registro institucional, sin que se conozca el patrón de esos datos faltantes, lo que limita la representatividad de las estimaciones. La proporción de docentes con datos completos varió considerablemente entre carreras (por ejemplo, 70 % en Enfermería frente a 16 % en Medicina), lo que no permite descartar que la asociación observada entre carrera y entrenamiento no formal refleje, al menos en parte, un sesgo de completitud diferencial de los registros más que una diferencia real entre carreras. Se evaluaron múltiples asociaciones (varias variables sociodemográficas y laborales frente a tres definiciones de entrenamiento) sin ajuste por comparaciones múltiples, por lo que la asociación más débil (entrenamiento no formal y carrera, P = 0,03) debe interpretarse con cautela; la asociación con el entrenamiento combinado (P = 0,002) es más robusta frente a esa limitación. El estudio se circunscribe a una única institución, lo que limita la generalización directa a otras universidades. El análisis curricular se basó en la revisión documental de los programas vigentes en 2020, sin verificación empírica en el aula, por lo que no puede descartarse una correspondencia imperfecta entre lo programado y lo efectivamente impartido; los hallazgos representan una fotografía institucional de ese periodo y no necesariamente la situación curricular actual. El estudio no evaluó competencias éticas, actitudes ni desempeño profesional de los estudiantes; el profesionalismo se utiliza aquí como marco teórico para interpretar los hallazgos, y no como un desenlace medido directamente. Entre las fortalezas se cuentan el carácter censal del componente curricular sobre las siete carreras y la complementariedad entre los datos de formación docente y de oferta curricular.
+Este estudio presenta limitaciones. El análisis se realizó sobre los 105 docentes (35 % de los 303 expedientes revisados) que contaban con datos completos; los 198 restantes se excluyeron por información insuficiente en el registro institucional, sin que se conozca el patrón de esos datos faltantes, lo que limita la representatividad de las estimaciones. La proporción de docentes con datos completos varió considerablemente entre carreras, de 70 % en Enfermería a 16 % en Medicina (tabla 1), lo que no permite descartar que la asociación observada entre carrera y entrenamiento no formal refleje, al menos en parte, un sesgo de completitud diferencial de los registros más que una diferencia real entre carreras. Se evaluaron múltiples asociaciones (varias variables sociodemográficas y laborales frente a tres definiciones de entrenamiento) sin ajuste por comparaciones múltiples, por lo que la asociación más débil (entrenamiento no formal y carrera, P = 0,03) debe interpretarse con cautela; la asociación con el entrenamiento combinado (P = 0,002) es más robusta frente a esa limitación. El estudio se circunscribe a una única institución, lo que limita la generalización directa a otras universidades. El análisis curricular se basó en la revisión documental de los programas vigentes en 2020, sin verificación empírica en el aula, por lo que no puede descartarse una correspondencia imperfecta entre lo programado y lo efectivamente impartido; los hallazgos representan una fotografía institucional de ese periodo y no necesariamente la situación curricular actual. El estudio no evaluó competencias éticas, actitudes ni desempeño profesional de los estudiantes; el profesionalismo se utiliza aquí como marco teórico para interpretar los hallazgos, y no como un desenlace medido directamente. Entre las fortalezas se cuentan el carácter censal del componente curricular sobre las siete carreras y la complementariedad entre los datos de formación docente y de oferta curricular.
 
 # CONCLUSIONES
 

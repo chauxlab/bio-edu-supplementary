@@ -1,6 +1,6 @@
 # Tabla curricular — asignatura específica de ética/bioética por carrera
 
-Material suplementario del manuscrito «Formación en bioética de los docentes y oferta curricular en las carreras de ciencias de la salud de una universidad paraguaya: estudio descriptivo transversal». Corresponde a la Tabla 1 del manuscrito.
+Material suplementario del manuscrito «Formación en bioética de los docentes y oferta curricular en las carreras de ciencias de la salud de una universidad paraguaya: estudio descriptivo transversal». Corresponde a la Tabla 2 del manuscrito.
 
 | Carrera | Duración de la carrera | Asignaturas totales | Semestres | Asignatura específica | Carga horaria | Semestre de dictado |
 |---|---|---|---|---|---|---|
