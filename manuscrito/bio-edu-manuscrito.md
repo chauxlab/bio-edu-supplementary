@@ -1,12 +1,12 @@
 ---
-version: 5
+version: 6
 status: ready
 language: es
 citation_style: vancouver
 ris_requested: true
 journal_target: "Investigación en Educación Médica (RIEM, UNAM)"
 source_document: "fuente/A/PF_A2.docx (tesis de posgrado, versión final); fuente/Repositorio/ (bookdown con resultados)"
-title: "Formación en bioética de docentes y oferta curricular en ciencias de la salud: estudio transversal"
+title: "Formación en bioética de docentes y oferta curricular en ciencias de la salud: Un estudio transversal"
 title_en: "Bioethics training among faculty and curricular offerings in health sciences: a cross-sectional study"
 short_title: "Formación en bioética de docentes en ciencias de la salud"
 ---
@@ -25,7 +25,7 @@ short_title: "Formación en bioética de docentes en ciencias de la salud"
 
 **Método:** estudio descriptivo transversal. Se revisó la totalidad de los registros académicos y laborales de 303 docentes activos en 2020, de los cuales 105 contaban con datos completos y fueron incluidos en el análisis; se examinaron en extenso los programas de estudio vigentes en 2020 de las siete carreras. Se realizó un análisis DAFO institucional. Las asociaciones se evaluaron con las pruebas de Kruskal-Wallis y de χ² de Pearson.
 
-**Resultados:** el 76 % de los docentes (80/105; IC 95 % 67,2-83,3) no tenía entrenamiento no formal en bioética y el 98 % (103/105; IC 95 % 93,3-99,5) no tenía entrenamiento formal de posgrado; solo 2 (2 %) tenían especialización o maestría en el área. El entrenamiento no formal se asoció con la carrera (P = 0,03), con mayor proporción en Enfermería (71 %; IC 95 % 45,4-88,3). Las siete carreras tenían exactamente una asignatura específica de ética o bioética (34-85 horas), impartida mediante clase magistral en todas, sin aprendizaje basado en casos. El DAFO identificó como debilidades principales el escaso entrenamiento docente y la ausencia de un comité de bioética institucional.
+**Resultados:** solo el 24 % de los docentes (25/105; IC 95 % 16,7-32,8) había recibido entrenamiento no formal en bioética, y apenas el 2 % (2/105; IC 95 % 0,5-6,7) contaba con entrenamiento formal de posgrado en el área. El entrenamiento no formal se asoció con la carrera (P = 0,03), con mayor proporción en Enfermería (71 %; IC 95 % 45,4-88,3). Las siete carreras tenían exactamente una asignatura específica de ética o bioética (34-85 horas), impartida mediante clase magistral en todas, sin aprendizaje basado en casos. El DAFO identificó como debilidades principales el escaso entrenamiento docente y la ausencia de un comité de bioética institucional.
 
 **Conclusiones:** la formación en bioética de los docentes es escasa y la oferta curricular dirigida a los alumnos es mínima y pedagógicamente homogénea, una brecha formativa abordable mediante estrategias institucionales escalonadas.
 
@@ -98,7 +98,7 @@ De los 105 docentes incluidos, 81 (77 %) eran mujeres y 24 (23 %) hombres, con u
 
 ## Formación en bioética de los docentes
 
-Ochenta docentes (76 %; IC 95 % 67,2-83,3) no presentaban entrenamiento no formal en bioética. De los 25 restantes (24 %), 19 (18 %) habían realizado cursos cortos, 3 (3 %) capacitaciones y 3 (3 %) diplomados. El entrenamiento no formal se asoció significativamente con la carrera (P = 0,03), con la proporción más alta en Enfermería (10/14, 71 %; IC 95 % 45,4-88,3) frente al resto (0-22 %). No se encontró evidencia estadística de asociación con la edad, el sexo, el grado académico, la facultad o los años de experiencia (P > 0,05 en todos los casos).
+Veinticinco docentes (24 %; IC 95 % 16,7-32,8) habían recibido entrenamiento no formal en bioética: 19 (18 %) cursos cortos, 3 (3 %) capacitaciones y 3 (3 %) diplomados; los 80 restantes (76 %; IC 95 % 67,2-83,3) no habían recibido ninguno. El entrenamiento no formal se asoció significativamente con la carrera (P = 0,03), con la proporción más alta en Enfermería (10/14, 71 %; IC 95 % 45,4-88,3) frente al resto (0-22 %). No se encontró evidencia estadística de asociación con la edad, el sexo, el grado académico, la facultad o los años de experiencia (P > 0,05 en todos los casos).
 
 Ciento tres docentes (98 %; IC 95 % 93,3-99,5) no presentaban entrenamiento formal de posgrado; solo 2 (2 %) lo tenían, uno con especialización (≥ 400 horas) y otro con maestría (≥ 750 horas). Dado el tamaño extremo de estos dos subgrupos (n = 1 en cada uno), la comparación de la experiencia docente entre grupos se presenta de forma descriptiva y no inferencial: 9,1 ± 7,5 años sin entrenamiento formal (n = 103), 6 años con especialización (n = 1) y 2 años con maestría (n = 1).
 
@@ -124,7 +124,7 @@ Además de la asignatura específica, se identificaron contenidos éticos disper
 
 ## Análisis DAFO institucional
 
-El análisis DAFO identificó como debilidades el escaso entrenamiento en bioética de los docentes, la instrucción insuficiente dirigida a los alumnos, la ausencia de cursos de posgrado institucionales, el proceso de enseñanza predominantemente expositivo y la ausencia de un comité de bioética institucional formalmente constituido, entendido aquí como un órgano académico permanente con función consultiva sobre la enseñanza y la gobernanza de la bioética en la institución, distinto de un comité de ética de investigación. Como amenazas se identificaron el escaso número de comités de ética institucionales en el país y la ausencia de un marco legal específico de regulación bioética. Entre las fortalezas se señalaron la acreditación nacional vigente de seis de las siete carreras, el reconocimiento explícito de la formación ética en la misión y el perfil de egreso de esas mismas carreras, el volumen de alumnos matriculados y la posición favorable de la institución en los rankings universitarios nacionales. Como oportunidades se identificaron la disponibilidad de cursos en línea de acceso abierto y el acceso institucional a bibliotecas virtuales indexadas internacionalmente.
+El análisis DAFO identificó como debilidades el escaso entrenamiento en bioética de los docentes, la instrucción insuficiente dirigida a los alumnos, la ausencia de cursos de posgrado institucionales, el proceso de enseñanza predominantemente expositivo y la ausencia de un comité de bioética institucional formalmente constituido, entendido aquí como un órgano académico permanente con función consultiva sobre la enseñanza y la gobernanza de la bioética en la institución, distinto de un comité de ética de investigación. Como amenaza se identificó el escaso número de comités de ética institucionales en el país. Entre las fortalezas se señalaron la acreditación nacional vigente de seis de las siete carreras, el reconocimiento explícito de la formación ética en la misión y el perfil de egreso de esas mismas carreras, el volumen de alumnos matriculados y la posición favorable de la institución en los rankings universitarios nacionales. Como oportunidades se identificaron la disponibilidad de cursos en línea de acceso abierto y el acceso institucional a bibliotecas virtuales indexadas internacionalmente.
 
 # DISCUSIÓN
 

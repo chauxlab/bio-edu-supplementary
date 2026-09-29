@@ -13,7 +13,6 @@ Material suplementario del manuscrito «Formación en bioética de los docentes 
 ## Amenazas
 
 - Escaso número de comités de ética institucionales en el país.
-- Ausencia de un marco legal específico de regulación bioética.
 
 ## Fortalezas
 
