@@ -1,10 +1,10 @@
 # Tabla curricular — asignatura específica de ética/bioética por carrera
 
-Material suplementario del manuscrito «Formación en bioética de los docentes y oferta curricular en las carreras de ciencias de la salud de una universidad paraguaya: estudio descriptivo transversal». Corresponde a la Tabla 2 del manuscrito.
+Material suplementario del manuscrito «Formación en bioética de docentes y oferta curricular en ciencias de la salud: Un estudio transversal». Corresponde a la Tabla 2 del manuscrito.
 
 | Carrera | Duración de la carrera | Asignaturas totales | Semestres | Asignatura específica | Carga horaria | Semestre de dictado |
 |---|---|---|---|---|---|---|
-| Medicina | 6 años + internado | 45 | 10 | Medicina legal y bioética | 68 h | 6.º |
+| Medicina | 6 años (10 semestres + 2 de internado rotatorio) | 45 | 10 | Medicina legal y bioética | 68 h | 6.º |
 | Enfermería | 4 años | 44 | 8 | Ética y medicina legal | 85 h | 6.º |
 | Nutrición | 4 años y medio | 49 | 9 | Ética | 34 h | 2.º |
 | Bioquímica | 5 años y medio | 54 | 11 | Ética y bioética | 34 h | 6.º |
